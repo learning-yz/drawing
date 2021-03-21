@@ -1,6 +1,6 @@
 # 代码说明
 1. commonDrawingExamples.ipynb:常用的绘图元素总结，参考[链接](https://matplotlib.org/gallery/index.html)
-    - 线形图(包含散点): `ax.plot()`, `ax.scatter()`, `ax.vlines`
+    - 线形图(包含散点): `ax.plot()`, `ax.scatter()`, `ax.vlines()`
     - 柱状图:`ax.bar()`
     - 条状图:`ax.barh()`
     - 直方图:`ax.hist()`
